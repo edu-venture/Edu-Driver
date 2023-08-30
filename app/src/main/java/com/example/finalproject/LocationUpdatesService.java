@@ -99,7 +99,7 @@ public class LocationUpdatesService extends Service {
                             //이게학원
 
 //                            .url("http://192.168.0.67:9090/hihi")
-                            .url("http://192.168.0.220:8081/hihi")
+                            .url("http://192.168.0.220:8081/getlocationfromandroid")
                             //이게학원
                             .post(requestBody)
                             .build();
