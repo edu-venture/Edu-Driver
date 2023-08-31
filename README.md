@@ -46,7 +46,7 @@
 
 
 
-<img src="https://blog.kakaocdn.net/dn/cSuZfu/btssAJYuZZg/XCIOKPkZUcj9EXbKZtxArk/img.gif"  width="700" height="370">
+<img src="./images/앱녹화.gif"  width="700" height="370">
 
 #### 영상 링크
 https://youtu.be/3axZLl6HEaM?si=Si4G7HE1vtIiDkPy
