@@ -49,17 +49,47 @@
 
 <hr/>
 
+
+<br/>
+<br/>
+
 1) 차량, 핸드폰번호, 위치 전송
+
+
+<br/>
+<br/>
 
 <img src="./images/1.gif"  width="700" height="370">
 
+<br/>
+<br/>
+
+
 2) 학원생들 승차 사진전송
+
+<br/>
+<br/>
 
 <img src="./images/2.gif"  width="700" height="370">
 
+
+<br/>
+<br/>
+
 3) 위치조작 확인
 
+<br/>
+<br/>
+
+  
+  
+  
+
 <img src="./images/3.gif"  width="700" height="370">
+
+<br/>
+<br/>
+
 
 #### 영상 링크
 https://youtu.be/3axZLl6HEaM?si=Si4G7HE1vtIiDkPy
