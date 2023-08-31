@@ -44,4 +44,9 @@
 
 +   FileProvider.getUriForFile 를 통해 찍은 사진의 uri를 가져온 후 현재시간을 이름에 넣고 MultiFileBody를 통해 서버에 전송
 
-  
+
+
+<img src="https://blog.kakaocdn.net/dn/cSuZfu/btssAJYuZZg/XCIOKPkZUcj9EXbKZtxArk/img.gif"  width="700" height="370">
+
+#### 영상 링크
+https://youtu.be/3axZLl6HEaM?si=Si4G7HE1vtIiDkPy
