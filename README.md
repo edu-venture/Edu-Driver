@@ -45,9 +45,20 @@
 +   FileProvider.getUriForFile 를 통해 찍은 사진의 uri를 가져온 후 현재시간을 이름에 넣고 MultiFileBody를 통해 서버에 전송
 
 
+## 예시
+
+<hr/>
+
+1) 차량, 핸드폰번호, 위치 전송
 
 <img src="./images/1.gif"  width="700" height="370">
+
+2) 학원생들 승차 사진전송
+
 <img src="./images/2.gif"  width="700" height="370">
+
+3) 위치조작 확인
+
 <img src="./images/3.gif"  width="700" height="370">
 
 #### 영상 링크
